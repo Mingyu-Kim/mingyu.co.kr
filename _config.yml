@@ -53,3 +53,7 @@ kramdown:
 sass:
   style: compressed
   sourcemap: never
+
+#TEST WEB PORT
+port: 8888
+livereload: true
