@@ -3,9 +3,9 @@
 
 
 social:
-  - {icon: 'github', type: "brand", link: 'https://www.github.com/pandasekh'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/PandaSekh'}
-  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/alessio-franceschi/'}
-  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+  - {icon: 'github', type: "brand", link: 'https://www.github.com/mingyu01'}
+  - {icon: 'facebook', type: "brand", link: 'https://www.facebook.com/mingyu01'}
+  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/mingyu01'}
+  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/mingyu01'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:mingyu@mingyu.co.kr'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}
