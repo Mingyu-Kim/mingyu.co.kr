@@ -28,7 +28,7 @@ Hope this finds more use.
 1. Download the NRF Toolbox app from the Google Play store. (For iphone users check if it is there, I don't own an iPhone)
 <https://play.google.com/store/apps/details?id=no.nordicsemi.android.nrftoolbox>
 
-2. Download the firmware zip file on your phone from here (https://easyupload.io/6mea18)
+2. Download the firmware zip file on your phone from here <https://easyupload.io/6mea18>
 
 3. Open NRF Toolbox and go to DFU (device firmware update) mode.
 ![Select DFU](/assets/img/2021-07-08/step1.jpg)
